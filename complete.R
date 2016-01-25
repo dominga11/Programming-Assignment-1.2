@@ -24,7 +24,7 @@ complete <- function(directory, id = 1:332) {
 # 5 12   96
 # complete("specdata", 30:25)
 #   id nobs
-# 1 30  932
+# 1 30  932 
 # 2 29  711
 # 3 28  475
 # 4 27  338
